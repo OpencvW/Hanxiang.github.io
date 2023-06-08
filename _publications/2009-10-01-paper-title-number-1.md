@@ -1,1 +1,12 @@
+---
+title: "SCI papers"
+collection: publications
+permalink: 
+---
+This paper is about the number 1. The number 2 is left for future work.
+
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
 **Hanxiang Wang**, Yanfen Li, L. Minh Dang, Hyeonjoon Moon. [An efficient attention module for instance segmentation network in pest monitoring](https://www.sciencedirect.com/science/article/pii/S0168169922001703). **Computers and Electronics in Agriculture** (**TOP SCI**), 195, 106853, 2022. [IF:6.757, 一区]
